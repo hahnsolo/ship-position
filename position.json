@@ -2,12 +2,12 @@
   "name": "CSL LAURENTIEN",
   "mmsi": "316001637",
   "fresh": true,
-  "checkedUtc": "2026-10-10T13:01:06Z",
-  "lat": 43.16124,
-  "lon": -79.19468,
-  "sog": 1.2,
-  "cog": 172.6,
-  "heading": 175,
+  "checkedUtc": "2026-10-10T17:50:28Z",
+  "lat": 42.98765,
+  "lon": -79.2177,
+  "sog": 8.2,
+  "cog": 189,
+  "heading": 190,
   "status": "Underway",
-  "reportedUtc": "2026-10-10T12:59:55Z"
+  "reportedUtc": "2026-10-10T17:50:16Z"
 }
