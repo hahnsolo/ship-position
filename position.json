@@ -2,13 +2,13 @@
   "name": "CSL LAURENTIEN",
   "mmsi": "316001637",
   "fresh": true,
-  "checkedUtc": "2026-10-15T18:37:37Z",
+  "checkedUtc": "2026-10-15T22:06:53Z",
   "lat": 42.78221,
-  "lon": -80.07639,
+  "lon": -80.07638,
   "sog": 0,
-  "cog": 136.9,
+  "cog": 258.3,
   "heading": 345,
   "status": "Underway",
-  "reportedUtc": "2026-10-15T18:33:46Z",
+  "reportedUtc": "2026-10-15T22:06:45Z",
   "destination": "Sandusky"
 }
