@@ -2,7 +2,7 @@
   "name": "CSL LAURENTIEN",
   "mmsi": "316001637",
   "fresh": false,
-  "checkedUtc": "2026-10-19T22:16:23Z",
+  "checkedUtc": "2026-10-20T01:14:55Z",
   "lat": 42.74955,
   "lon": -80.05853,
   "sog": 10.8,
@@ -10,5 +10,5 @@
   "heading": 153,
   "status": "Underway",
   "reportedUtc": "2026-10-16T00:40:05Z",
-  "destination": "Sandusky"
+  "destination": "Nanticoke"
 }
