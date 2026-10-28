@@ -1,14 +1,14 @@
 {
   "name": "CSL LAURENTIEN",
   "mmsi": "316001637",
-  "fresh": false,
-  "checkedUtc": "2026-10-28T05:10:43Z",
-  "lat": 42.20655,
-  "lon": -83.13254,
-  "sog": 8.6,
-  "cog": 4.1,
-  "heading": 4,
+  "fresh": true,
+  "checkedUtc": "2026-10-28T11:35:47Z",
+  "lat": 45.03771,
+  "lon": -85.91302,
+  "sog": 11.6,
+  "cog": 34.4,
+  "heading": 37,
   "status": "Underway",
-  "reportedUtc": "2026-10-25T01:32:11Z",
+  "reportedUtc": "2026-10-28T11:34:21Z",
   "destination": "Burns Harbor"
 }
