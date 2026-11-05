@@ -1,14 +1,14 @@
 {
   "name": "CSL LAURENTIEN",
   "mmsi": "316001637",
-  "fresh": false,
-  "checkedUtc": "2026-11-04T18:54:19Z",
-  "lat": 41.98872,
-  "lon": -81.76183,
-  "sog": 11.3,
-  "cog": 70.6,
-  "heading": 72,
+  "fresh": true,
+  "checkedUtc": "2026-11-05T00:19:47Z",
+  "lat": 42.95412,
+  "lon": -79.23042,
+  "sog": 8.2,
+  "cog": 15.9,
+  "heading": 16,
   "status": "Underway",
-  "reportedUtc": "2026-11-04T11:29:51Z",
+  "reportedUtc": "2026-11-05T00:16:00Z",
   "destination": "Toledo"
 }
