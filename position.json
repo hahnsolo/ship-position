@@ -1,14 +1,14 @@
 {
   "name": "CSL LAURENTIEN",
   "mmsi": "316001637",
-  "fresh": false,
-  "checkedUtc": "2026-11-06T09:48:08Z",
-  "lat": 43.28298,
-  "lon": -79.81851,
+  "fresh": true,
+  "checkedUtc": "2026-11-06T17:21:55Z",
+  "lat": 42.88255,
+  "lon": -79.24823,
   "sog": 0,
-  "cog": 142.3,
-  "heading": 287,
+  "cog": 34.5,
+  "heading": 182,
   "status": "Underway",
-  "reportedUtc": "2026-11-05T15:46:21Z",
+  "reportedUtc": "2026-11-06T17:19:21Z",
   "destination": "Windsor"
 }
