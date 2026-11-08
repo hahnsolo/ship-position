@@ -2,13 +2,13 @@
   "name": "CSL LAURENTIEN",
   "mmsi": "316001637",
   "fresh": true,
-  "checkedUtc": "2026-11-07T23:54:48Z",
-  "lat": 42.25665,
-  "lon": -83.10927,
+  "checkedUtc": "2026-11-08T05:38:16Z",
+  "lat": 42.257,
+  "lon": -83.10901,
   "sog": 0,
-  "cog": 5.7,
+  "cog": 146.9,
   "heading": 29,
   "status": "Underway",
-  "reportedUtc": "2026-11-07T23:52:40Z",
+  "reportedUtc": "2026-11-08T05:36:50Z",
   "destination": "Erie"
 }
