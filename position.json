@@ -1,8 +1,8 @@
 {
   "name": "CSL LAURENTIEN",
   "mmsi": "316001637",
-  "fresh": true,
-  "checkedUtc": "2026-11-09T20:39:35Z",
+  "fresh": false,
+  "checkedUtc": "2026-11-10T03:25:20Z",
   "lat": 42.20101,
   "lon": -80.00839,
   "sog": 0,
