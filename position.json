@@ -1,14 +1,14 @@
 {
   "name": "CSL LAURENTIEN",
   "mmsi": "316001637",
-  "fresh": false,
-  "checkedUtc": "2026-11-17T02:03:20Z",
-  "lat": 42.99628,
-  "lon": -79.21593,
-  "sog": 7.9,
-  "cog": 188.5,
-  "heading": 188,
+  "fresh": true,
+  "checkedUtc": "2026-11-17T10:38:25Z",
+  "lat": 42.77939,
+  "lon": -80.07575,
+  "sog": 0.7,
+  "cog": 355.6,
+  "heading": 336,
   "status": "Underway",
-  "reportedUtc": "2026-11-14T16:42:21Z",
+  "reportedUtc": "2026-11-17T10:37:01Z",
   "destination": "Hamilton"
 }
