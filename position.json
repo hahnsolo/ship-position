@@ -1,9 +1,10 @@
 {
-  "name": "MV Umiak 1",
+  "name": "Arvik I",
   "mmsi": "316044196",
   "imo": "9854698",
   "callsign": "CFA3281",
   "flag": "Canada",
+  "homePort": "Montreal",
   "fresh": true,
   "checkedUtc": "2026-11-22T13:55:00Z",
   "lat": 47.5615,
